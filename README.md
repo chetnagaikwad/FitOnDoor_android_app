@@ -15,14 +15,14 @@ FitOnDoor is a doorstep tailoring app that lets users book appointments, choose 
 ## 📸 Screenshots
 
 ### 👤 User Side
-![Home Screen](homepage.jpeg)
+<img src="homepage.jpeg width="250"/>
 ![Booking Page](user_appoinmnet.jpeg)
 <img src="appoinment_history.jpeg" width="250"/>
-![user appoinment history](appoinment_history.jpeg)
 
 ### 🧵 Tailore login
-![Tailore appoinmnet page](Tailore_appoinmnet.jpeg)
-![Tailore dashboard](tailore_dashboard.jpeg)
+<img src="Tailore_appoinmnet.jpeg.jpeg" width="250"/>
+<img src="tailore_dashboard.jpeg" width="250"/>
+
 ### 🛠️ Admin Panel
 ![Admin Dashboard](admin_panel.jpeg)
 
