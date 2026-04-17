@@ -1,17 +1,31 @@
 # FitOnDoor Android App
 
-This is an Android application for booking tailoring appointments at home.
+FitOnDoor is a doorstep tailoring app that lets users book appointments, choose fabrics, and explore designs through a Pinterest-style gallery.
 
 ## 📱 Features
 * Easy to understand 
-* Easy and simple UI
-* Fast and smooth performance
+* simple and clean UI
+* Option to use your own fabric or choose from our collection
+* Pinterest-style gallery for outfit design inspiration
 
 ## 📥 Download App
 
 [Download APK]https://drive.google.com/file/d/1IIvvfNhZWTxEYiZcukHFZZehbuLykjRh/view?usp=sharing
 
-## 🛠️ Tech Used
+## 📸 Screenshots
+
+### 👤 User Side
+![Home Screen](homepage.jpeg)
+![Booking Page](user_appoinmnet.jpeg)
+![user appoinment history](appoinment_history.jpeg)
+### 🧵 Tailore login
+![Tailore appoinmnet page](Tailore_appoinmnet.jpeg)
+![Tailore dashboard](tailore_dashboard.jpeg)
+### 🛠️ Admin Panel
+![Admin Dashboard](admin_panel.jpeg)
+
+##  👩‍💻Tech Used
 
 * Flutter
-*django
+* Django
+  
